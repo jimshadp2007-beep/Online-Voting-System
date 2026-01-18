@@ -112,7 +112,6 @@ Casting a vote
 
 Displaying voting results
 
-(Video submitted separately as per instructions)
 
 📚 Learning Outcomes
 
