@@ -106,11 +106,7 @@ The video demonstration includes:
 
 Code explanation
 
-Program execution
-
-Casting a vote
-
-Displaying voting results
+https://drive.google.com/file/d/1yxyUPD7MhGGhgEUbiEsd1lqXE1I5_2h_/view?usp=sharing
 
 
 📚 Learning Outcomes
